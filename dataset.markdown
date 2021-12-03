@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dataset & Analysis
-permalink: /data-analysis/
+permalink: /722testsite/data-analysis/
 ---
 
 <h3 style="font-weight: bold; text-align: center;">Exploring A Digital Campus’s Student Engagement and Recruitment at an Organization Level</h3>
