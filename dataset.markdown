@@ -44,7 +44,7 @@ permalink: /data-analysis/
 	<a href="#word-spotting"><li>Reducing manual tagging - Word and Phrase Spotting</li></a>
 	<a href="#cat-records"><li>Categories + Data = Categorized Data</li></a>
     <a href="#diversity"><li>Diversity of Events</li></a>
-
+	<a href="#reasoning"><li>So what does this all mean? - Results</li></a>
 </ol>
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 <p class="return-top"><a href="#top">Return to the top</a></p>
@@ -385,4 +385,13 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 <p class="return-top"><a href="#top">Return to the top</a></p>
 
+<h3 id="reasoning">So what does this all mean? - Results</h3>
+<p>From our analysis methods, we can see that organizations at George Mason University are undertaking some recruitment efforts to increase engagement. Overall, both Mason 360 and Twitter are being actively used by the organizers to recruit. The large number of events and tweets indicates that this. Additionally, there are a variety of interest groups represented on each platform. The high reversed HHI means that George Mason has a high diversity ofactivities that suit all kinds of students, so the student engagement opportunity might be high as well. However, as we mentioned earlier, we cannot quantify the engagement level. The organizations are recruiting, but we cannot say how well attended any of the events are. Neither can GMU (other than university-led initiatives).</p>
+
+<p>In addition, we found out that there are some recruitment issues in Mason360 and Twitter. Regarding Mason 360, the website is an off-the-shelf software platform, so there are limited functionality and resources. Also, the description of each event and organization is poor and unclear. There is no quality assurance with the type of information on Mason 360. For example, these are some of the events on the website. (I will add images of the events with not description.). Also, it is not clear for each event whether it is open to everyone or for the organization’s members only. Also, there is no contact information neither for Mason360 or of the organization’s leader, except the main of Mason360 admin that I emailed through the data collection process.</p>
+
+<p>On the other hand, the Twitter recruitment efforts seem to have more functionality than Mason360. Using a social media platform gives the organization freedom to create their brand image, decide on their online persona, and how they want to engage with their members/audience. Social media platforms also allow for spreading more than just recruitment efforts including interest-specific discussion news. This is not possible with the way that Mason360 is designed. However, because there is much flexibility, posts can sound unofficial since they are posts by personal accounts instead of verified accounts. Mason360 is a vetted portal, and so this is not as much of an issue.</p>
+
 <p>This analysis informed the recommendations we provide on our <a href="/722-project/recommendations/">Recommendations page</a>.</p>
+<hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
