@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recommendations
-permalink: /722testsite/recommendations/
+permalink: /recommendations/
 ---
 
 <h4 id="top" style="font-weight: bold; text-align: center; color: #006633;">Exploring A Digital Campus’s Student Recruitment at an Organizational Level</h4>

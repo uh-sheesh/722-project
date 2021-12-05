@@ -380,7 +380,7 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1638665523801');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <p class="divider"></p>
 <p>We measured the reverse HHI for both datasets to test the diversity of the activities because higher diversity means diverse types of activities are available within the community. This will in turn increase the opportunity of all students’ engagement since GMU’s students are diverse and come from different cultures and backgrounds, and each has a different interest.</p>
-<p>We calculated the HHI for Mason360 first, and we found that the reversed HHI is .797, which is high. Then we ran it on the Twitter dataset. Interestingly, the reversed HHI is also .774.</p>
+<p>We calculated the HHI for Mason360 first, and we found that the reversed <strong>HHI is .797</strong>, which is high. Then we ran it on the Twitter dataset. Interestingly, the reversed <strong>HHI is also .774</strong>.</p>
 
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 <p class="return-top"><a href="#top">Return to the top</a></p>
