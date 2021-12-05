@@ -4,7 +4,6 @@
 
 layout: home
 ---
-
 <style>
 .large-quote{font-size: larger; font-weight: bold; font-style: italic;}
 </style>
@@ -24,7 +23,7 @@ layout: home
 <p>We explore two commonly used media that allow for the bridging of organizer and participant at George Mason University (GMU). The first medium is an official platform designated by GMU to “Discover Events, Meet Patriots, Get Involved, and Access Resources.” The second medium is Twitter, a commonly used social media platform that, although unofficial and unregulated, is widely accepted by students, faculty, and the community in general.
 This project is split into 2 sections aimed at different audiences:
 <ol>
-<li>If you are interested in how the project was handled, data were collected, and analysis completed, please click here: <strong><em><a href="/data-analysis/">Dataset & Analysis</a></em></strong>.</li>
-<li>If you want to see the recommendations our team outlined based on the analysis, please click here: <strong><em><a href="/recommendations/">Recommendations</a></em></strong>.</li>
+<li>If you are interested in how the project was handled, data were collected, and analysis completed, please click here: <strong><em><a href="/722-project//data-analysis/">Dataset & Analysis</a></em></strong>.</li>
+<li>If you want to see the recommendations our team outlined based on the analysis, please click here: <strong><em><a href="/722-project/recommendations/">Recommendations</a></em></strong>.</li>
 </ol>
 </p>

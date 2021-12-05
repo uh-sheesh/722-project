@@ -28,7 +28,7 @@ permalink: /data-analysis/
 	</ol>
 </p>
 
-<p>The second part of this project aims to provide <a href="/recommendations/">recommendations for organization leaders to enhance recruitment and retention</a>. Additionally, students can also gain some understanding of what interest groups are dominant on different platforms. The recommendations will be discussed based on the result of the first question. 
+<p>The second part of this project aims to provide <a href="/722-project/recommendations/">recommendations for organization leaders to enhance recruitment and retention</a>. Additionally, students can also gain some understanding of what interest groups are dominant on different platforms. The recommendations will be discussed based on the result of the first question. 
 </p>
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 
@@ -385,4 +385,4 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 <p class="return-top"><a href="#top">Return to the top</a></p>
 
-<p>This analysis informed the recommendations we provide on our <a href="/recommendations/">Recommendations page</a>.</p>
+<p>This analysis informed the recommendations we provide on our <a href="/722-project/recommendations/">Recommendations page</a>.</p>
