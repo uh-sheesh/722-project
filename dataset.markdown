@@ -3,35 +3,38 @@ layout: page
 title: Dataset & Analysis
 permalink: /data-analysis/
 ---
+
 <style>
  .highlight {color:#01a049;}
  #ldavis_el21842525022835312810128273 {overflow: scroll;} /* LDA Tweets Styles */
  #ldavis_el133461405418311466247316670030 {overflow: scroll;} /* LDA Mason 360 Styles */
  .tableauPlaceholder {overflow: scroll;}
  th {text-align: center;}
+ .return-top {font-size: smaller;text-align: right;}}
 </style>
 
-<h3 style="font-weight: bold; text-align: center;">Exploring A Digital Campus’s Student Engagement and Recruitment at an Organization Level</h3>
+<h4 id="top" style="font-weight: bold; text-align: center;">Exploring A Digital Campus’s Student Recruitment at an Organizational Level</h4>
 <hr style="margin: 40px 0 40px 0;"/>
 
 <p>Brief explanation and reiteration of topic</p>
 
 <p>The topic has been split into different sections for discussion of the data collection, analysis, interesting results, and more:</p>
 <ol class="highlight">
-    <li>The Data</li>
-        <ul>
-            <li>Mason 360 Dataset</li>
-            <li>Twitter Dataset</li>
+    <a href="#data"><li>The Data</li></a>
+        <ul style="margin-bottom: 0px;">
+            <a href="#data"><li>Mason 360 Dataset</li></a>
+            <a href="#data"><li>Twitter Dataset</li></a>
         </ul>
-    <li>Word and Phrase Spotting</li>
-    <li>LDA Analysis</li>
-    <li>Diversity of Events</li>
-    <li>Limitations (Extent of this work)</li>
-    <li>Future Work</li>
+    <a href="#lda"><li>LDA Analysis</li></a>
+	<a href="#word-spotting"><li>Word and Phrase Spotting</li></a>
+	<a href="#cat-records"><li>Sample Categorized Records</li></a>
+    <a href="#diversity"><li>Diversity of Events</li></a>
+    <a href="#limitations"><li>Limitations (Extent of this work)</li></a>
 </ol>
 <hr style="margin: 40px 0 40px 0;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
 
-<h3>The Data</h3>
+<h3 id="data">The Data</h3>
 <p>We collected data from 2 datasets for this project. The first was...</p>
 
 <p style="font-size: 1.5em"><strong><em>Mason 360 Dataset</em></strong></p>
@@ -43,8 +46,9 @@ permalink: /data-analysis/
 <p>Image of Mason 360</p>
 <p>The Twitter dataset comprised of several accounts and hashtags including (@georgemason, @gmu, #georgemason). Talk about the dataset, and how it was collected and processed.</p>
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
 
-<h3>LDA Analysis</h3>
+<h3 id="lda">LDA Analysis</h3>
 <p>Some description</p>
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 
@@ -141,8 +145,9 @@ if(typeof(LDAvis) !== "undefined"){
 </script>
 <!-- LDA Twitter Data end-->
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
 
-<h3>Word and Phrase Spotting</h3>
+<h3 id="word-spotting">Word and Phrase Spotting</h3>
 <p>Some description</p>
 
 Code snippet and logic for the word spotting script (incomplete sets)
@@ -217,8 +222,9 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 	</tbody>
 </table>
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
 
-<h3>Sample Categorized Records</h3>
+<h3 id="cat-records">Sample Categorized Records</h3>
 <p>Here are some categorized tweets...</p>
 
 <div class='tableauPlaceholder' id='viz1638584392383' style='position: relative'>
@@ -268,8 +274,9 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1638584869871');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
 
-<h3>Diversity of Events</h3>
+<h3 id="diversity">Diversity of Events</h3>
 <p>Explain what the reverse HHI is used for. Is there a formula we can put here?</p>
 <p>Mason 360</p>
 
@@ -321,12 +328,10 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 <script type='text/javascript'>                    var divElement = document.getElementById('viz1638665523801');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 <p>For the Twitter dataset, the reverse HHI was 0.774.</p>
-<hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 
-<h3>Limitations</h3>
-<p>Some description</p>
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
 
-<h3>Future of this Work</h3>
+<h3 id="limitations">Limitations</h3>
 <p>Some description</p>
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
