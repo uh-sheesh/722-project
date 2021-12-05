@@ -22,7 +22,7 @@ permalink: /recommendations/
 <p>A great example of this cross collabration of Mason360 and Twitter is how the student organization "GMU ESPORTS" recruits. They have both an <a href="https://mason360.gmu.edu/GMUEsports/rsvp_boot?id=1353510">event on Mason 360</a> and a <a href="https://twitter.com/GMU_Esports/status/1449760848545820685">Tweet to support the event</a> too.</p>
 
 <h3>#4 - Follow the existing communities or play the niche and a create new ones - it is your choice.</h3>
-<p>Through our diversity analysis, we recognize that both the Mason360 and Twitter platforms have a diverse set of events. Based on the type of interest group you are aiming for, as an organization leader, you can either cater to the existing crowd on the platform or try to build a new crown on the platform (much harder).
+<p>Through our diversity analysis, we recognize that both the Mason360 and Twitter platforms have a diverse set of events. Based on the type of interest group you are aiming for, as an organization leader, you can either cater to the existing crowd on the platform or try to build a new crown on the platform (much harder).</p>
 
 <p>For example, the <a href="/722-project/data-analysis/#diversity">Interest Categories</a> show that Research/Scholarship is a topic broached much more on Social Media platforms rather than on Mason 360. If your event falls in this category, you may find your voice amplified since a community already exists on the platform.</p>
 
