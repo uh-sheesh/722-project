@@ -7,7 +7,7 @@ permalink: /data-analysis/
 <style>
  .highlight {color:#01a049;}
  #ldavis_el821223345283422724710934851 {overflow: scroll;} /* LDA Tweets Styles */
- #ldavis_el133461405418311466247316670030 {overflow: scroll;} /* LDA Mason 360 Styles */
+ #ldavis_el133461405418311466247316670030 {overflow: scroll;} /* LDA Mason360 Styles */
  .tableauPlaceholder {overflow: scroll;}
  th {text-align: center;}
  .return-top {font-size: smaller;text-align: right;}
@@ -23,7 +23,7 @@ permalink: /data-analysis/
 <p style="text-align:center; font-weight: bolder;">How do organizations at George Mason University engage with students through online recruitment efforts?</p>
 <p>For us to answer this, we realized it is important to understand if platforms are being used to recruit different interest groups, and whether there are even a variety of groups recruiting online, to begin with. Without knowing what organizers are doing with each platform, it makes it extremely difficult to make recommendations. The explicit questions we intend to answer through this project are:
 	<ol>
-		<li>What interest categories recruit students on different platforms (Mason 360 vs. social media)?</li>
+		<li>What interest categories recruit students on different platforms (Mason360 vs. social media)?</li>
 		<li>How diverse are these interest categories on each platform? Currently, there are no statistics, metrics, or recommendations available?</li>
 	</ol>
 </p>
@@ -34,9 +34,10 @@ permalink: /data-analysis/
 
 <p>The project has been split into different sections for discussion of the data collection, approach, analysis, interesting results, and more:</p>
 <ol class="highlight">
+	<a href="#limits"><li>Limitations of the Work</li></a>
 	<a href="#data"><li>The Data</li></a>
         <ul style="margin-bottom: 0px;">
-            <a href="#data"><li>Mason 360 Dataset</li></a>
+            <a href="#data"><li>Mason360 Dataset</li></a>
             <a href="#data"><li>Twitter Dataset</li></a>
         </ul>
     <a href="#lda"><li>But what categories exist? - LDA Analysis</li></a>
@@ -49,13 +50,23 @@ permalink: /data-analysis/
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 <p class="return-top"><a href="#top">Return to the top</a></p>
 
+<h3 id="limits">Limitations of the Work</h3>
+<p>There are two primary limitations for this work:</p>
+<ol>
+	<li>The data available from the institution is minimal at best. We reached out to different offices at George Mason University and even aggregate or deidentified data is not available.</li>
+	<li>The categories, analysis, and recommendations are specifically for George Mason University. At this stage, the project is not wholly generalizable, but this project cannot work to making it so.</li>
+</ol>
+
+<hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
+<p class="return-top"><a href="#top">Return to the top</a></p>
+
 <h3 id="data">The Data</h3>
 <p>To answer our two questions, we selected two platforms to collect data as our datasets.</p>
 
-<p><strong><em>Mason 360 Dataset</em></strong></p>
+<p><strong><em>Mason360 Dataset</em></strong></p>
 <p>The first dataset is Mason360, an off-the-shelf campus engagement platform for George Mason University powered by Campus Labs. This is a university sanctioned system, and it is used because platforms like this are considered a student success best practice across other institutions.</p>
 <p>In Mason360, we are focusing on the events sections instead of organizations, because there is not much information regarding the organization, and when we tried to contact Mason360 to request reported data such as the number of members and social media presence, etc. for each organization, they responded two weeks later and said they do not have this data, and we should contact the organizations individually. This is extremely impractical because there are about 550 organizations, and for this reason we decided to focus on recruitment instead of engagement because we could not access any official data regarding the engagement level in GMU.</p>
-<p>Once we defined our scope with Mason360, we started examining the events between September 10 and November 21 by looking at the title of the event, the name of the organization, the date, the location, etc. Our final Mason 360 dataset included 1165 events.</p>
+<p>Once we defined our scope with Mason360, we started examining the events between September 10 and November 21 by looking at the title of the event, the name of the organization, the date, the location, etc. Our final Mason360 dataset included 1165 events.</p>
 
 <p class="divider"></p>
 <p><strong><em>Twitter Dataset</em></strong></p>
@@ -72,8 +83,8 @@ permalink: /data-analysis/
 <hr style="margin: 40px 0 40px 0; border-color: lightgrey;"/>
 
 <!-- LDA Mason360 Data start-->
-<p><strong><em>Mason 360 Dataset - LDA Results</em></strong></p>
-<p>Below you can explore the results of the LDA attempts at classifying topics for the Mason 360 dataset.</p>
+<p><strong><em>Mason360 Dataset - LDA Results</em></strong></p>
+<p>Below you can explore the results of the LDA attempts at classifying topics for the Mason360 dataset.</p>
 <p><em>Coherence Score:  0.5870</em></p>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/bmabey/pyLDAvis@3.3.1/pyLDAvis/js/ldavis.v1.0.0.css">
@@ -335,7 +346,7 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 
 <p><strong><em>Mason360 Dataset Category Distribution</em></strong></p>
 <div class='tableauPlaceholder' id='viz1638664967247' style='position: relative'>
-	<noscript><a href='#'><img alt='Understanding Student Recruitment StylesMason 360 Interest Categories Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_360events_diversity&#47;Mason360InterestCategoriesVisualization&#47;1_rss.png' style='border: none' /></a></noscript>
+	<noscript><a href='#'><img alt='Understanding Student Recruitment StylesMason360 Interest Categories Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_360events_diversity&#47;Mason360InterestCategoriesVisualization&#47;1_rss.png' style='border: none' /></a></noscript>
 	<object class='tableauViz'  style='display:none;'>
 		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 		<param name='embed_code_version' value='3' />
@@ -386,9 +397,9 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 <p class="return-top"><a href="#top">Return to the top</a></p>
 
 <h3 id="reasoning">So what does this all mean? - Results</h3>
-<p>From our analysis methods, we can see that organizations at George Mason University are undertaking some recruitment efforts to increase engagement. Overall, both Mason 360 and Twitter are being actively used by the organizers to recruit. The large number of events and tweets indicates that this. Additionally, there are a variety of interest groups represented on each platform. The high reversed HHI means that George Mason has a high diversity ofactivities that suit all kinds of students, so the student engagement opportunity might be high as well. However, as we mentioned earlier, we cannot quantify the engagement level. The organizations are recruiting, but we cannot say how well attended any of the events are. Neither can GMU (other than university-led initiatives).</p>
+<p>From our analysis methods, we can see that organizations at George Mason University are undertaking some recruitment efforts to increase engagement. Overall, both Mason360 and Twitter are being actively used by the organizers to recruit. The large number of events and tweets indicates that this. Additionally, there are a variety of interest groups represented on each platform. The high reversed HHI means that George Mason has a high diversity ofactivities that suit all kinds of students, so the student engagement opportunity might be high as well. However, as we mentioned earlier, we cannot quantify the engagement level. The organizations are recruiting, but we cannot say how well attended any of the events are. Neither can GMU (other than university-led initiatives).</p>
 
-<p>In addition, we found out that there are some recruitment issues in Mason360 and Twitter. Regarding Mason 360, the website is an off-the-shelf software platform, so there are limited functionality and resources. Also, the description of each event and organization is poor and unclear. There is no quality assurance with the type of information on Mason 360. For example, these are some of the events on the website. (I will add images of the events with not description.). Also, it is not clear for each event whether it is open to everyone or for the organization’s members only. Also, there is no contact information neither for Mason360 or of the organization’s leader, except the main of Mason360 admin that I emailed through the data collection process.</p>
+<p>In addition, we found out that there are some recruitment issues in Mason360 and Twitter. Regarding Mason360, the website is an off-the-shelf software platform, so there are limited functionality and resources. Also, the description of each event and organization is poor and unclear. There is no quality assurance with the type of information on Mason360. For example, these are some of the events on the website. (I will add images of the events with not description.). Also, it is not clear for each event whether it is open to everyone or for the organization’s members only. Also, there is no contact information neither for Mason360 or of the organization’s leader, except the main of Mason360 admin that I emailed through the data collection process.</p>
 
 <p>On the other hand, the Twitter recruitment efforts seem to have more functionality than Mason360. Using a social media platform gives the organization freedom to create their brand image, decide on their online persona, and how they want to engage with their members/audience. Social media platforms also allow for spreading more than just recruitment efforts including interest-specific discussion news. This is not possible with the way that Mason360 is designed. However, because there is much flexibility, posts can sound unofficial since they are posts by personal accounts instead of verified accounts. Mason360 is a vetted portal, and so this is not as much of an issue.</p>
 
