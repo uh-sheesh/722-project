@@ -8,7 +8,7 @@ layout: home
 .large-quote{font-size: larger; font-weight: bold; font-style: italic;}
 </style>
 
-<h2 style="font-weight: bold; text-align: center; font-size; 20px; color: #006633;">Exploring A Digital Campus’s Student Recruitment at an Organizational Level</h2>
+<h2 style="font-weight: bold; text-align: center; font-size; 20px; color: #006633;">Understanding Digital Mason Student Organization Recruitment - A Mixed Methods Approach</h2>
 <h3 style="text-align:center;">Ashish Hingle & Rafeef Baamer</h3>
 <p>This work was presented at the <a href="https://gapsa.gmu.edu/conference/" target="_blank">2022 Mason Graduate Interdisciplinary Conference</a>:</br><em>Hingle, A., & Baamer, R. (2022). Exploring Student Recruitment Through The Lens of a Digital Campus. Proceedings of Mason Graduate Interdisciplinary Conference, 2022.</em></p>
 <hr style="margin: 40px 0 40px 0;"/>

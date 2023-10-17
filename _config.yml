@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Understanding Digital Mason Student Org. Recruitment
+title: Digital Mason Student Org. Recruitment
 description: >- # this means to ignore newlines until "baseurl:"
   This project attempts to understand how organizations at a Smart & Connected Community Campus (S&CCC)
   recruit use different platforms to recruit students to activities, events, and to participate in general.
