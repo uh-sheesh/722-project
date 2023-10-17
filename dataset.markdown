@@ -294,7 +294,7 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 
 <p><strong><em>Mason360 Dataset  Categorized Data Snippet</em></strong></p>
 <div class='tableauPlaceholder' id='viz1638584869871' style='position: relative'>
-	<noscript><a href='#'><img alt='Understanding Student Recruitment StylesHighlighted Events from Each Interest Group ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_360events&#47;HighlightedEventsfromEachInterestGroup&#47;1_rss.png' style='border: none' /></a></noscript>
+	<noscript><a href='#'><img alt='Digital Mason Student Org. Recruitment - Highlighted Events from Each Interest Group ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_360events&#47;HighlightedEventsfromEachInterestGroup&#47;1_rss.png' style='border: none' /></a></noscript>
 	<object class='tableauViz'  style='display:none;'>
 		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 		<param name='embed_code_version' value='3' />
@@ -318,7 +318,7 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 <p>... and here are some categorized tweets from the Twitter dataset.</p>
 <p><strong><em>Twitter Dataset Categorized Data Snippet</em></strong></p>
 <div class='tableauPlaceholder' id='viz1638584392383' style='position: relative'>
-	<noscript><a href='#'><img alt='Understanding Student Recruitment StylesHighlighted Tweets from Each Interest Group ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_Tweets&#47;HighlightedTweetsfromEachInterestGroup&#47;1_rss.png' style='border: none' /></a></noscript>
+	<noscript><a href='#'><img alt='Digital Mason Student Org. Recruitment - Highlighted Tweets from Each Interest Group ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_Tweets&#47;HighlightedTweetsfromEachInterestGroup&#47;1_rss.png' style='border: none' /></a></noscript>
 	<object class='tableauViz'  style='display:none;'>
 		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 		<param name='embed_code_version' value='3' />
@@ -346,7 +346,7 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 
 <p><strong><em>Mason360 Dataset Category Distribution</em></strong></p>
 <div class='tableauPlaceholder' id='viz1638664967247' style='position: relative'>
-	<noscript><a href='#'><img alt='Understanding Student Recruitment StylesMason360 Interest Categories Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_360events_diversity&#47;Mason360InterestCategoriesVisualization&#47;1_rss.png' style='border: none' /></a></noscript>
+	<noscript><a href='#'><img alt='Digital Mason Student Org. Recruitment - Mason360 Interest Categories Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_360events_diversity&#47;Mason360InterestCategoriesVisualization&#47;1_rss.png' style='border: none' /></a></noscript>
 	<object class='tableauViz'  style='display:none;'>
 		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 		<param name='embed_code_version' value='3' />
@@ -370,7 +370,7 @@ admissions = ['admission', 'early action deadline', 'freshman early action deadl
 
 <p><strong><em>Twitter Dataset Category Distribution</em></strong></p>
 <div class='tableauPlaceholder' id='viz1638665523801' style='position: relative'>
-	<noscript><a href='#'><img alt='Understanding Student Recruitment StylesTwitter Interest Categories Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_Tweets_diversity&#47;TwitterInterestCategoriesVisualization&#47;1_rss.png' style='border: none' /></a></noscript>
+	<noscript><a href='#'><img alt='Digital Mason Student Org. Recruitment - Twitter Interest Categories Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;72&#47;722_Tweets_diversity&#47;TwitterInterestCategoriesVisualization&#47;1_rss.png' style='border: none' /></a></noscript>
 	<object class='tableauViz'  style='display:none;'>
 		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 		<param name='embed_code_version' value='3' />
