@@ -9,7 +9,8 @@ layout: home
 </style>
 
 <h2 style="font-weight: bold; text-align: center; font-size; 20px; color: #006633;">Exploring A Digital Campus’s Student Recruitment at an Organizational Level</h2>
-<h3 style="text-align:center;"><em>AIT 722 Final Project by Rafeef Baamer & Ashish Hingle</em></h3>
+<h3 style="text-align:center;">Ashish Hingle & Rafeef Baamer</h3>
+<p>This work was presented at the <a href="https://gapsa.gmu.edu/conference/">2022 Mason Graduate Interdisciplinary Conference</a>:</br><em>Hingle, A., & Baamer, R. (2022). Exploring Student Recruitment Through The Lens of a Digital Campus. Proceedings of Mason Graduate Interdisciplinary Conference, 2022.</em></p>
 <hr style="margin: 40px 0 40px 0;"/>
 ![Group of smiling students standing around a table. A sign in the front of the table says "WELCOME2MASON Fraternity & Sorority Life"](images/landing_image.jpg)
 <p style="text-align: center; font-size: smaller; padding-bottom: 25px;"><em>Image courtesy of George Mason University</em></p>
